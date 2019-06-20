@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "U:\\ProgrammingProjects\\moneybook\\src\\MoneyBook\\MoneyBook.csproj": {}
+  },
+  "projects": {
+    "U:\\ProgrammingProjects\\moneybook\\src\\MoneyBook\\MoneyBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "U:\\ProgrammingProjects\\moneybook\\src\\MoneyBook\\MoneyBook.csproj",
+        "projectName": "MoneyBook",
+        "projectPath": "U:\\ProgrammingProjects\\moneybook\\src\\MoneyBook\\MoneyBook.csproj",
+        "packagesPath": "C:\\Users\\jsmith1\\.nuget\\packages\\",
+        "outputPath": "U:\\ProgrammingProjects\\moneybook\\src\\MoneyBook\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jsmith1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

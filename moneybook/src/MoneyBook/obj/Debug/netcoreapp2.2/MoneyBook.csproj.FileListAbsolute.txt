@@ -1,0 +1,11 @@
+U:\ProgrammingProjects\moneybook\src\MoneyBook\bin\Debug\netcoreapp2.2\MoneyBook.deps.json
+U:\ProgrammingProjects\moneybook\src\MoneyBook\bin\Debug\netcoreapp2.2\MoneyBook.runtimeconfig.json
+U:\ProgrammingProjects\moneybook\src\MoneyBook\bin\Debug\netcoreapp2.2\MoneyBook.runtimeconfig.dev.json
+U:\ProgrammingProjects\moneybook\src\MoneyBook\bin\Debug\netcoreapp2.2\MoneyBook.dll
+U:\ProgrammingProjects\moneybook\src\MoneyBook\bin\Debug\netcoreapp2.2\MoneyBook.pdb
+U:\ProgrammingProjects\moneybook\src\MoneyBook\obj\Debug\netcoreapp2.2\MoneyBook.csprojAssemblyReference.cache
+U:\ProgrammingProjects\moneybook\src\MoneyBook\obj\Debug\netcoreapp2.2\MoneyBook.csproj.CoreCompileInputs.cache
+U:\ProgrammingProjects\moneybook\src\MoneyBook\obj\Debug\netcoreapp2.2\MoneyBook.AssemblyInfoInputs.cache
+U:\ProgrammingProjects\moneybook\src\MoneyBook\obj\Debug\netcoreapp2.2\MoneyBook.AssemblyInfo.cs
+U:\ProgrammingProjects\moneybook\src\MoneyBook\obj\Debug\netcoreapp2.2\MoneyBook.dll
+U:\ProgrammingProjects\moneybook\src\MoneyBook\obj\Debug\netcoreapp2.2\MoneyBook.pdb
